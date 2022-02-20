@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2325FF2E&size=24&center=true&vCenter=true&lines=IT%26CS+student;Competitive+programmer;I+love+car+racing;Reading+books;IF+YOU+ARE+IN+A+BAD+MODE+TRY+TO+CODE)](https://git.io/typing-svg)
 
 <br>
-<p><img align="right" width="20%" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" alt="" /></p>
+<p><img align="right" width="50%" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" alt="" /></p>
 
 ## :sassy_man:  About me
 - :school: I am a `Junior` at Faculty of Information Technology and Computer Sciences, Sinai University.
