@@ -6,7 +6,7 @@
 <p><img align="right" width="50%" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" alt="" /></p>
 
 ## :sassy_man:  About me
-- :school: I am a `Junior` at Faculty of Information Technology and Computer Sciences, Sinai University.
+- :school: I am a `Student` at Faculty of Information Technology and Computer Sciences, Sinai University.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer.
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
