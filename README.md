@@ -36,11 +36,11 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript" width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/prathimacode-hub/prathimacode-hub/main/TechStack/Visual%20Studio%20Code.png" alt="linux" width="40" height="40"/><a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/pycharm.png"/></a>
-      <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/></a>
-      <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/></a>
-      <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/></a>
-      <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/office-365.png"/></a>
+      width="40" height="40" /> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a><a href="" target="_blank"> <img src="https://raw.githubusercontent.com/prathimacode-hub/prathimacode-hub/main/TechStack/Visual%20Studio%20Code.png" alt="linux" width="40" height="40"/><a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/pycharm.png"/></a>
+      <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/></a>
+      <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/></a>
+      <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/></a>
+      <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/office-365.png"/></a>
       </p>
 
 <br>
