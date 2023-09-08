@@ -10,7 +10,7 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer.
 - :student: I’m currently learning: `Data Science` and `Software Engineering`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1rz9vhbpWTf8aVo1r3eI6ky5HAH189RgE/view?usp=sharing).
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://www.canva.com/design/DAFUHQRYJ_M/vT98IBeg7URQihsx-dUe1Q/view?utm_content=DAFUHQRYJ_M&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink).
 - :nerd_face: Always `learning new things`.
 
 <br>
