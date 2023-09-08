@@ -9,7 +9,7 @@
 - :school: I am a `Student` at Faculty of Information Technology and Computer Sciences, Sinai University.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer.
-- :student: I’m currently learning: `Computer Science` and `Software Engineering`.
+- :student: I’m currently learning: `Data Science` and `Software Engineering`.
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1rz9vhbpWTf8aVo1r3eI6ky5HAH189RgE/view?usp=sharing).
 - :nerd_face: Always `learning new things`.
 
